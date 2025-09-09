@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow
+airflow.db
+airflow-webserver.pid
+logs/
+
+# MLflow
+mlflow/
+
+# Data & Models
+data/
+model/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
